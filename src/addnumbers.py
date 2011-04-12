@@ -10,11 +10,11 @@
 
 import unittest
 
-def calculateSum (input):
-    if not input:
+def calculateSum (str):
+    if not str:
         return 0
     return reduce(lambda sum, value: sum + int(value), 
-                  input.split('+'), 0)
+                  str.split('+'), 0)
 
 class CalculateSumTest (unittest.TestCase):
     def test_shouldReturnZeroWhenNoneIsGiven (self):
