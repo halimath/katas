@@ -9,17 +9,17 @@ If you haven't heard of code katas yet, you may find this page usefull:
 
 #The Katas
 
-## Grep
+## [Grep](https://github.com/halimath/python-katas/blob/master/src/grep.py)
 Very, very simple starter kata to learn tdd by grepping a string.
 
-##Add Numbers
+## [Add Numbers](https://github.com/halimath/python-katas/blob/master/src/addnumbers.py)
 A really simple, algorithmic kata to learn tdd and baby steps. The problem is to evaluate a simple arithmetic expression given as a string.
 
-## Bowling
+## [Bowling](https://github.com/halimath/python-katas/blob/master/src/bowling.py)
 Some kind of more advanced kata: Implement a system that keeps track of the score of a bowling game.
 
-## Tennis
+## [Tennis](https://github.com/halimath/python-katas/blob/master/src/tennis.py)
 Same as bowling, this time using a tennis match.
 
-## Alien Language
+## [Alien Language](https://github.com/halimath/python-katas/blob/master/src/alien_language.py)
 Inspired by the Google Code Jam exercise found at [http://code.google.com/codejam/contest/90101/dashboard](http://code.google.com/codejam/contest/90101/dashboard)
