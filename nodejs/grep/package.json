@@ -1,0 +1,12 @@
+{
+  "name": "grep-kata",
+  "version": "0.0.1",
+  "description": "Different implementations of the grep kata in node",
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*"
+  },
+  "scripts": {
+    "test": "mocha tests"
+  }
+}
